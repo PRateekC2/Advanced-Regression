@@ -1,10 +1,10 @@
-# Project Name
-> Outline a brief description of your project.
+# Advanced-Regreesion
+> House-price Prediction
 
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
+* [Technologies Used](Colab & pdf)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
